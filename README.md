@@ -1,2 +1,3 @@
-# first_django_project
-My_First_Django_project
+# Happy Christmas!
+
+![my first Django app](my first Django app.png)
