@@ -1,2 +1,2 @@
 # first_django_project
-my_First_Django_project
+My_First_Django_project
