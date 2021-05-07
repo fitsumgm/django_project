@@ -1,3 +1,3 @@
-# Happy Christmas!
+# First Django Project!
 
-![my first Django app](my first Django app.png)
+![Happy Christmas](Christmas.png)
